@@ -1,3 +1,3 @@
-# project2
-this is project2
+# Project 2
+
 this is read me file
